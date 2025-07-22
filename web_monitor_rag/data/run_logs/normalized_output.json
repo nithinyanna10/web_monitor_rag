@@ -1,7 +1,7 @@
 {
   "site1": {
     "product": "UltraBook Pro 15",
-    "price": 897.79,
+    "price": 817.4,
     "description": "UltraBook Pro 15 is a lightweight laptop with a 15-inch Retina display, 16GB RAM, and 1TB SSD. Ideal for professionals on the go.",
     "features": [
       "15-inch Retina Display",
@@ -13,85 +13,85 @@
     "review": "\"Sleek design and blazing-fast performance. The best choice for productivity and travel.\""
   },
   "site2": {
-    "headline": "Tech Company Releases Next-Gen Smartphone",
-    "author_and_date": "By Alex Johnson | 2025-07-21 21:36:28",
-    "body": "Tech giant FutureMobile has unveiled its latest smartphone, featuring an AI-powered camera, foldable display, and all-day battery life. Early reviews praise its innovative design and powerful performance.",
+    "headline": "City Council Approves New Park Downtown",
+    "author_and_date": "By Michael Lee | 2025-07-22 17:02:25",
+    "body": "The city council has unanimously approved the construction of a new public park in the downtown area. The park will feature walking trails, playgrounds, and a community garden, providing much-needed green space for residents.",
     "tags": [
-      "Technology",
-      "Gadgets",
-      "AI"
+      "Local",
+      "Community",
+      "Environment"
     ]
   },
   "site3": {
     "city": "New York",
-    "temperature": "30.9°C",
+    "temperature": "3.6°C",
     "forecast": "Sunny with a few clouds. Perfect weather for outdoor activities.",
     "hourly": [
       {
         "hour": "8:00",
-        "temperature": "31.0°C"
+        "temperature": "4.2°C"
       },
       {
         "hour": "10:00",
-        "temperature": "32.4°C"
+        "temperature": "1.4°C"
       },
       {
         "hour": "12:00",
-        "temperature": "32.3°C"
+        "temperature": "3.2°C"
       },
       {
         "hour": "14:00",
-        "temperature": "32.9°C"
+        "temperature": "2.0°C"
       },
       {
         "hour": "16:00",
-        "temperature": "32.4°C"
+        "temperature": "2.5°C"
       },
       {
         "hour": "18:00",
-        "temperature": "33.8°C"
+        "temperature": "3.0°C"
       },
       {
         "hour": "20:00",
-        "temperature": "32.2°C"
+        "temperature": "4.5°C"
       }
     ]
   },
   "site4": {
-    "company_and_ticker": "Tesla, Inc. (TSLA)",
-    "price": 448.3,
-    "analysis": "Tesla's innovative approach to electric vehicles and energy storage keeps it at the forefront of the industry. Recent developments in autonomous driving technology have boosted investor confidence.",
+    "company_and_ticker": "Amazon.com, Inc. (AMZN)",
+    "price": 1311.86,
+    "analysis": "Amazon's dominance in e-commerce and cloud computing continues to drive revenue growth. The company's focus on logistics and AI integration sets it apart from competitors.",
     "recent_prices": [
       {
         "day": "Day 1",
-        "price": 458.07
+        "price": 1307.39
       },
       {
         "day": "Day 2",
-        "price": 446.54
+        "price": 1311.55
       },
       {
         "day": "Day 3",
-        "price": 444.38
+        "price": 1313.18
       },
       {
         "day": "Day 4",
-        "price": 441.03
+        "price": 1310.32
       },
       {
         "day": "Day 5",
-        "price": 452.55
+        "price": 1303.99
       }
     ]
   },
   "site5": {
-    "event": "Food Festival at City Square",
-    "meta": "2024-09-10 | City Square, Chicago",
-    "description": "Taste culinary delights from over 50 local vendors. Live cooking demos, contests, and family-friendly activities all day long.",
+    "event": "Music Concert at Central Park",
+    "meta": "2024-07-15 | Central Park, New York",
+    "description": "Join us for an unforgettable night of live music featuring top artists from around the world. Food trucks and merchandise stalls available.",
     "speakers": [
-      "Chef Antonio",
-      "Baker Mia",
-      "Grillmaster Lee"
+      "DJ Sonic",
+      "The Jazz Cats",
+      "MC Melody"
     ]
   }
 }

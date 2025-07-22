@@ -1,0 +1,171 @@
+{
+  "site1": {
+    "product": {
+      "old": "UltraBook Pro 15",
+      "new": "Smartphone X200"
+    },
+    "price": {
+      "old": "$897.79",
+      "new": "$882.65"
+    },
+    "description": {
+      "old": "UltraBook Pro 15 is a lightweight laptop with a 15-inch Retina display, 16GB RAM, and 1TB SSD. Ideal for professionals on the go.",
+      "new": "The Smartphone X200 features a stunning 6.5-inch OLED display, 128GB storage, and a powerful octa-core processor. Perfect for multitasking and gaming."
+    },
+    "features": {
+      "old": [
+        "15-inch Retina Display",
+        "16GB RAM",
+        "1TB SSD",
+        "Aluminum Body",
+        "Thunderbolt 4"
+      ],
+      "new": [
+        "6.5-inch OLED Display",
+        "128GB Storage",
+        "Octa-core Processor",
+        "Triple-lens Camera",
+        "5G Connectivity"
+      ]
+    },
+    "review": {
+      "old": "\"Sleek design and blazing-fast performance. The best choice for productivity and travel.\"",
+      "new": "\"An outstanding device with exceptional battery life and a crystal-clear display. Highly recommended for tech enthusiasts!\""
+    }
+  },
+  "site2": {
+    "author_and_date": {
+      "old": "By Alex Johnson | 2025-07-21 21:36:28",
+      "new": "By Alex Johnson | 2025-07-22 16:59:07"
+    }
+  },
+  "site3": {
+    "city": {
+      "old": "New York",
+      "new": "London"
+    },
+    "temperature": {
+      "old": "30.9°C",
+      "new": "-2.2°C"
+    },
+    "forecast": {
+      "old": "Sunny with a few clouds. Perfect weather for outdoor activities.",
+      "new": "Heavy showers in the morning, clearing up by late afternoon."
+    },
+    "hourly": {
+      "old": [
+        {
+          "hour": "8:00",
+          "temperature": "31.0°C"
+        },
+        {
+          "hour": "10:00",
+          "temperature": "32.4°C"
+        },
+        {
+          "hour": "12:00",
+          "temperature": "32.3°C"
+        },
+        {
+          "hour": "14:00",
+          "temperature": "32.9°C"
+        },
+        {
+          "hour": "16:00",
+          "temperature": "32.4°C"
+        },
+        {
+          "hour": "18:00",
+          "temperature": "33.8°C"
+        },
+        {
+          "hour": "20:00",
+          "temperature": "32.2°C"
+        }
+      ],
+      "new": [
+        {
+          "hour": "8:00",
+          "temperature": "-3.0°C"
+        },
+        {
+          "hour": "10:00",
+          "temperature": "-1.7°C"
+        },
+        {
+          "hour": "12:00",
+          "temperature": "0.8°C"
+        },
+        {
+          "hour": "14:00",
+          "temperature": "-2.6°C"
+        },
+        {
+          "hour": "16:00",
+          "temperature": "-0.6°C"
+        },
+        {
+          "hour": "18:00",
+          "temperature": "-3.1°C"
+        },
+        {
+          "hour": "20:00",
+          "temperature": "-0.8°C"
+        }
+      ]
+    }
+  },
+  "site4": {
+    "price": {
+      "old": "$448.3",
+      "new": "$1811.75"
+    },
+    "recent_prices": {
+      "old": [
+        {
+          "day": "Day 1",
+          "price": "$458.07"
+        },
+        {
+          "day": "Day 2",
+          "price": "$446.54"
+        },
+        {
+          "day": "Day 3",
+          "price": "$444.38"
+        },
+        {
+          "day": "Day 4",
+          "price": "$441.03"
+        },
+        {
+          "day": "Day 5",
+          "price": "$452.55"
+        }
+      ],
+      "new": [
+        {
+          "day": "Day 1",
+          "price": "$1816.12"
+        },
+        {
+          "day": "Day 2",
+          "price": "$1813.92"
+        },
+        {
+          "day": "Day 3",
+          "price": "$1819.85"
+        },
+        {
+          "day": "Day 4",
+          "price": "$1813.25"
+        },
+        {
+          "day": "Day 5",
+          "price": "$1813.53"
+        }
+      ]
+    }
+  },
+  "site5": {}
+}
