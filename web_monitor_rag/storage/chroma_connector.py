@@ -3,7 +3,7 @@ import os
 
 CHROMA_COLLECTION = os.getenv('CHROMA_COLLECTION', 'site_embeddings')
 
-client = chromadb.Client()
+client = chromadb.PersistentClient(path="chroma_db_data")
 
 
 def get_collection():
@@ -74,3 +74,10 @@ if __name__ == '__main__':
         print(f"Inserted {len(texts)} texts and embeddings into ChromaDB.")
     else:
         print("No texts found to embed.")
+
+    # Print all documents and metadata in the collection
+    col = get_collection()
+    all_data = col.get()
+    print("Documents in ChromaDB:")
+    for doc, meta in zip(all_data['documents'], all_data['metadatas']):
+        print(f"Text: {doc}\nMetadata: {meta}\n---")
