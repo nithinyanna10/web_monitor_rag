@@ -1,0 +1,204 @@
+{
+  "site1": {
+    "product": {
+      "old": "NoiseCancel 700 Headphones",
+      "new": "UltraBook Pro 15"
+    },
+    "price": {
+      "old": "$264.67",
+      "new": "$897.79"
+    },
+    "description": {
+      "old": "Experience immersive sound with NoiseCancel 700. Active noise cancellation, 30-hour battery, and comfortable fit.",
+      "new": "UltraBook Pro 15 is a lightweight laptop with a 15-inch Retina display, 16GB RAM, and 1TB SSD. Ideal for professionals on the go."
+    },
+    "features": {
+      "old": [
+        "Active Noise Cancellation",
+        "30-hour Battery",
+        "Bluetooth 5.2",
+        "Touch Controls",
+        "Lightweight Design"
+      ],
+      "new": [
+        "15-inch Retina Display",
+        "16GB RAM",
+        "1TB SSD",
+        "Aluminum Body",
+        "Thunderbolt 4"
+      ]
+    },
+    "review": {
+      "old": "\"Superb sound quality and comfort. Blocks out all distractions.\"",
+      "new": "\"Sleek design and blazing-fast performance. The best choice for productivity and travel.\""
+    }
+  },
+  "site2": {
+    "headline": {
+      "old": "City Council Approves New Park Downtown",
+      "new": "Tech Company Releases Next-Gen Smartphone"
+    },
+    "author_and_date": {
+      "old": "By Michael Lee | 2025-07-21 21:29:40",
+      "new": "By Alex Johnson | 2025-07-21 21:36:28"
+    },
+    "body": {
+      "old": "The city council has unanimously approved the construction of a new public park in the downtown area. The park will feature walking trails, playgrounds, and a community garden, providing much-needed green space for residents.",
+      "new": "Tech giant FutureMobile has unveiled its latest smartphone, featuring an AI-powered camera, foldable display, and all-day battery life. Early reviews praise its innovative design and powerful performance."
+    },
+    "tags": {
+      "old": "Local, Community, Environment",
+      "new": "Technology, Gadgets, AI"
+    }
+  },
+  "site3": {
+    "city": {
+      "old": "Tokyo",
+      "new": "New York"
+    },
+    "temperature": {
+      "old": "34.4°C",
+      "new": "30.9°C"
+    },
+    "hourly": {
+      "old": [
+        {
+          "hour": "8:00",
+          "temperature": "36.7°C"
+        },
+        {
+          "hour": "10:00",
+          "temperature": "32.3°C"
+        },
+        {
+          "hour": "12:00",
+          "temperature": "35.2°C"
+        },
+        {
+          "hour": "14:00",
+          "temperature": "33.6°C"
+        },
+        {
+          "hour": "16:00",
+          "temperature": "31.9°C"
+        },
+        {
+          "hour": "18:00",
+          "temperature": "33.5°C"
+        },
+        {
+          "hour": "20:00",
+          "temperature": "34.4°C"
+        }
+      ],
+      "new": [
+        {
+          "hour": "8:00",
+          "temperature": "31.0°C"
+        },
+        {
+          "hour": "10:00",
+          "temperature": "32.4°C"
+        },
+        {
+          "hour": "12:00",
+          "temperature": "32.3°C"
+        },
+        {
+          "hour": "14:00",
+          "temperature": "32.9°C"
+        },
+        {
+          "hour": "16:00",
+          "temperature": "32.4°C"
+        },
+        {
+          "hour": "18:00",
+          "temperature": "33.8°C"
+        },
+        {
+          "hour": "20:00",
+          "temperature": "32.2°C"
+        }
+      ]
+    }
+  },
+  "site4": {
+    "price": {
+      "old": "$124.24",
+      "new": "$448.3"
+    },
+    "recent_prices": {
+      "old": [
+        {
+          "day": "Day 1",
+          "price": "$117.69"
+        },
+        {
+          "day": "Day 2",
+          "price": "$120.85"
+        },
+        {
+          "day": "Day 3",
+          "price": "$123.63"
+        },
+        {
+          "day": "Day 4",
+          "price": "$130.16"
+        },
+        {
+          "day": "Day 5",
+          "price": "$124.75"
+        }
+      ],
+      "new": [
+        {
+          "day": "Day 1",
+          "price": "$458.07"
+        },
+        {
+          "day": "Day 2",
+          "price": "$446.54"
+        },
+        {
+          "day": "Day 3",
+          "price": "$444.38"
+        },
+        {
+          "day": "Day 4",
+          "price": "$441.03"
+        },
+        {
+          "day": "Day 5",
+          "price": "$452.55"
+        }
+      ]
+    }
+  },
+  "site5": {
+    "event": {
+      "old": "Tech Meetup at Innovation Hub",
+      "new": "Food Festival at City Square"
+    },
+    "meta": {
+      "old": "2024-08-02 | Innovation Hub, San Francisco",
+      "new": "2024-09-10 | City Square, Chicago"
+    },
+    "description": {
+      "old": "A gathering of tech enthusiasts, developers, and entrepreneurs. Keynotes, networking, and hands-on workshops throughout the day.",
+      "new": "Taste culinary delights from over 50 local vendors. Live cooking demos, contests, and family-friendly activities all day long."
+    },
+    "speakers": {
+      "old": [
+        "Elena Torres",
+        "Samir Patel",
+        "Dr. Lin Wei"
+      ],
+      "new": [
+        "Chef Antonio",
+        "Baker Mia",
+        "Grillmaster Lee"
+      ]
+    }
+  }
+}
